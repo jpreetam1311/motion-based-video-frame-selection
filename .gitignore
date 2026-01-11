@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data & videos
+Accidents/*.mp4
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs (if you add any later)
+outputs/
